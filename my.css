@@ -1,0 +1,83 @@
+* {
+    margin: 20px;
+    box-sizing: border-box;
+  }
+  html {
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+  }
+  /* common styles */
+  .ms{
+    margin: 20px 15px;
+  }
+  h2 {
+    font-size: 1.2rem;
+  }
+  /* join our community styles */
+  .joc {
+    background-color: snow;
+  }
+  .joc h1 {
+    color: hsl(179, 62%, 43%);
+    margin-bottom: 1.3rem;
+  }
+  .joc h2 {
+    color: hsla(71, 73%, 54%, 0.856);
+    margin-bottom: 1.3rem;
+  }
+  .joc p {
+    max-width: 95%;
+    color: rgb(172, 171, 171);
+  }
+
+  
+
+  h2 {
+     font-size: 1.2rem;
+  }
+
+  .ms{
+    background-color: hsl(179, 62%, 43%);
+    margin: 10px 5px;
+    padding: 10px 5px 10px 5px;
+  }
+
+  .ms h2 {
+    color: rgba(255, 255, 255, 0.301);
+    margin-bottom: 1.3rem;
+  }
+
+  .ms p {
+    max-width: 95%;
+    color: snow;
+  }
+
+  .ms button {
+    padding: 5px 90px 5px 90px;
+    background-color: hsl(71,73%,54%);
+  }
+
+  .why-us {
+    margin: 10px 5px;
+    padding: 20px 20px 40px 20px;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+  }
+
+  .why-us {
+    background-color: rgba(27,183,189,0.616);
+  }
+
+  .why-us h2 {
+    color: white;
+    margin-bottom: 1.3rem;
+  }
+
+  .why-us p {
+    max-width: 95%;
+    columns: snow;
+  }
+  
+  
